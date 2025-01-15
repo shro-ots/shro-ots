@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on forming a solid foundation 🥰
-I'm currently learning Python and SQL
+I'm currently working on forming a solid foundation and learning Python and SQL 🥰
